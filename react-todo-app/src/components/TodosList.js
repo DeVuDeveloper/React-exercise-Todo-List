@@ -16,4 +16,4 @@ const TodosList = props => {
     </ul>
   )
 }
-export default TodosList
+export default TodosList;
