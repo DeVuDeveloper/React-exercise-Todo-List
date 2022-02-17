@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.81fda377.chunk.css",
-    "main.js": "/repository-name/static/js/main.a3ad8ff4.chunk.js",
-    "main.js.map": "/repository-name/static/js/main.a3ad8ff4.chunk.js.map",
-    "runtime~main.js": "/repository-name/static/js/runtime~main.f7634681.js",
-    "runtime~main.js.map": "/repository-name/static/js/runtime~main.f7634681.js.map",
-    "static/js/2.454e20bd.chunk.js": "/repository-name/static/js/2.454e20bd.chunk.js",
-    "static/js/2.454e20bd.chunk.js.map": "/repository-name/static/js/2.454e20bd.chunk.js.map",
-    "index.html": "/repository-name/index.html",
-    "precache-manifest.1631aed92cc3d09b7378cc06434aa03f.js": "/repository-name/precache-manifest.1631aed92cc3d09b7378cc06434aa03f.js",
-    "service-worker.js": "/repository-name/service-worker.js",
-    "static/css/main.81fda377.chunk.css.map": "/repository-name/static/css/main.81fda377.chunk.css.map"
-  }
+    "main.css": "/React-exercise-Todo-List/static/css/main.f7dea68c.chunk.css",
+    "main.js": "/React-exercise-Todo-List/static/js/main.2ce8db9a.chunk.js",
+    "main.js.map": "/React-exercise-Todo-List/static/js/main.2ce8db9a.chunk.js.map",
+    "runtime-main.js": "/React-exercise-Todo-List/static/js/runtime-main.83d86257.js",
+    "runtime-main.js.map": "/React-exercise-Todo-List/static/js/runtime-main.83d86257.js.map",
+    "static/js/2.73ade813.chunk.js": "/React-exercise-Todo-List/static/js/2.73ade813.chunk.js",
+    "static/js/2.73ade813.chunk.js.map": "/React-exercise-Todo-List/static/js/2.73ade813.chunk.js.map",
+    "index.html": "/React-exercise-Todo-List/index.html",
+    "precache-manifest.90c5e595c66a6d853dc8f2d8150bb471.js": "/React-exercise-Todo-List/precache-manifest.90c5e595c66a6d853dc8f2d8150bb471.js",
+    "service-worker.js": "/React-exercise-Todo-List/service-worker.js",
+    "static/css/main.f7dea68c.chunk.css.map": "/React-exercise-Todo-List/static/css/main.f7dea68c.chunk.css.map",
+    "static/js/2.73ade813.chunk.js.LICENSE.txt": "/React-exercise-Todo-List/static/js/2.73ade813.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83d86257.js",
+    "static/js/2.73ade813.chunk.js",
+    "static/css/main.f7dea68c.chunk.css",
+    "static/js/main.2ce8db9a.chunk.js"
+  ]
 }
