@@ -5,7 +5,6 @@ import Header from './Header';
 import InputTodo from './InputTodo';
 import TodosList from './TodosList';
 import About from '../pages/About';
-import NotMatch from '../pages/NotMatch';
 import Navbar from './Navbar';
 
 const TodoContainer = () => {
@@ -84,9 +83,7 @@ const TodoContainer = () => {
         <Route path="/about">
           <About />
         </Route>
-        <Route path="*">
-          <NotMatch />
-        </Route>
+        <Route path="*" />
       </Switch>
     </>
   );
