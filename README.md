@@ -1,4 +1,4 @@
-# Todo List - Reac
+# Todo List - React
 
 Live preview [here]( https://vudej.github.io/React-exercise-Todo-List/). 
 
